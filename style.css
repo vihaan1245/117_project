@@ -1,0 +1,29 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    color:aquamarine;
+    background-color: cornsilk;
+}
+
+#show_sketch {
+    float: right;
+}
+
+p {
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+#timer {
+    margin-left: 1450px;
+}
+
+#score {
+    margin-right: 1450px;
+}
+
+#Draw {
+    color: red;
+}
